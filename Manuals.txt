@@ -1,0 +1,11 @@
+https://www.stigviewer.com/stig/windows_10/2021-08-18/finding/V-220708
+https://www.stigviewer.com/stig/windows_10/2021-08-18/finding/V-220707
+https://www.stigviewer.com/stig/windows_10/2021-08-18/finding/V-220718
+https://www.stigviewer.com/stig/windows_10/2021-08-18/finding/V-220712
+https://www.stigviewer.com/stig/windows_10/2021-08-18/finding/V-220726
+https://www.stigviewer.com/stig/windows_10/2021-08-18/finding/V-220737
+https://www.stigviewer.com/stig/windows_10/2021-08-18/finding/V-220967
+https://www.stigviewer.com/stig/windows_10/2021-08-18/finding/V-220963
+https://www.stigviewer.com/stig/windows_10/2021-08-18/finding/V-220747
+https://www.stigviewer.com/stig/windows_10/2021-08-18/finding/V-220958
+https://www.stigviewer.com/stig/windows_10/2021-08-18/finding/V-220928
